@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="InterfaceQuery.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSound3DBuffer8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSound3DListener8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSound8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundBuffer8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundCapture8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundCaptureBuffer8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundCaptureFXAec8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundCaptureFXNoiseSuppress8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundFullDuplex8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundFXChorus8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundFXCompressor8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundFXDistortion8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundFXEcho8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundFXFlanger8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundFXGargle8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundFXI3DL2Reverb8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundFXParamEq8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundFXWavesReverb8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IDirectSoundNotify8.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="IKsPropertySet.cpp">
+      <Filter>Dsound</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui-docking\imgui.cpp">
+      <Filter>IMGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui-docking\imgui_demo.cpp">
+      <Filter>IMGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui-docking\imgui_draw.cpp">
+      <Filter>IMGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui-docking\imgui_impl_dx11.cpp">
+      <Filter>IMGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui-docking\imgui_impl_win32.cpp">
+      <Filter>IMGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui-docking\imgui_tables.cpp">
+      <Filter>IMGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui-docking\imgui_widgets.cpp">
+      <Filter>IMGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Aimbot.cpp">
+      <Filter>Aimbot</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithm.cpp">
+      <Filter>Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="Data.cpp">
+      <Filter>Data</Filter>
+    </ClCompile>
+    <ClCompile Include="DX11.cpp">
+      <Filter>DX11</Filter>
+    </ClCompile>
+    <ClCompile Include="DX11Window.cpp">
+      <Filter>DXWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="Global.cpp">
+      <Filter>Globel</Filter>
+    </ClCompile>
+    <ClCompile Include="Memory.cpp">
+      <Filter>Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="Esp.cpp">
+      <Filter>ESP</Filter>
+    </ClCompile>
+    <ClCompile Include="Setting.cpp">
+      <Filter>Setting</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="Discord SDK\src\connection_win.cpp">
+      <Filter>SRC</Filter>
+    </ClCompile>
+    <ClCompile Include="Discord SDK\src\discord_register_win.cpp">
+      <Filter>SRC</Filter>
+    </ClCompile>
+    <ClCompile Include="Discord SDK\src\discord_rpc.cpp">
+      <Filter>SRC</Filter>
+    </ClCompile>
+    <ClCompile Include="Discord SDK\src\rpc_connection.cpp">
+      <Filter>SRC</Filter>
+    </ClCompile>
+    <ClCompile Include="Discord SDK\src\serialization.cpp">
+      <Filter>SRC</Filter>
+    </ClCompile>
+    <ClCompile Include="Discord.cpp">
+      <Filter>Discord</Filter>
+    </ClCompile>
+    <ClCompile Include="imguipp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dsound.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSound3DBuffer8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSound3DListener8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSound8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundBuffer8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundCapture8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundCaptureBuffer8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundCaptureFXAec8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundCaptureFXNoiseSuppress8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundFullDuplex8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundFXChorus8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundFXCompressor8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundFXDistortion8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundFXEcho8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundFXFlanger8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundFXGargle8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundFXI3DL2Reverb8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundFXParamEq8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundFXWavesReverb8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IDirectSoundNotify8.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="IKsPropertySet.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="AddressLookupTable.h">
+      <Filter>Dsound</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui-docking\imconfig.h">
+      <Filter>IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui-docking\imgui.h">
+      <Filter>IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui-docking\imgui_impl_dx11.h">
+      <Filter>IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui-docking\imgui_impl_win32.h">
+      <Filter>IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui-docking\imgui_internal.h">
+      <Filter>IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui-docking\imstb_rectpack.h">
+      <Filter>IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui-docking\imstb_textedit.h">
+      <Filter>IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui-docking\imstb_truetype.h">
+      <Filter>IMGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="Aimbot.h">
+      <Filter>Aimbot</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithm.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Data.h">
+      <Filter>Data</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11.h">
+      <Filter>DX11</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11Window.h">
+      <Filter>DXWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Globel</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="font.h">
+      <Filter>Font</Filter>
+    </ClInclude>
+    <ClInclude Include="Offset.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleIni.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="xorstr.hpp">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Mem.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="Memory.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="byte.h">
+      <Filter>Font</Filter>
+    </ClInclude>
+    <ClInclude Include="Esp.h">
+      <Filter>ESP</Filter>
+    </ClInclude>
+    <ClInclude Include="Setting.h">
+      <Filter>Setting</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Driver.h" />
+    <ClInclude Include="loadDrv.h" />
+    <ClInclude Include="icon.h" />
+    <ClInclude Include="iconcpp.h" />
+    <ClInclude Include="api\KeyAuth.hpp">
+      <Filter>api</Filter>
+    </ClInclude>
+    <ClInclude Include="api\Swifty.hpp">
+      <Filter>api</Filter>
+    </ClInclude>
+    <ClInclude Include="api\Swifty_hor.hpp">
+      <Filter>api</Filter>
+    </ClInclude>
+    <ClInclude Include="api\xCheto.hpp">
+      <Filter>api</Filter>
+    </ClInclude>
+    <ClInclude Include="curl.h" />
+    <ClInclude Include="curlver.h" />
+    <ClInclude Include="system.h" />
+    <ClInclude Include="easy.h" />
+    <ClInclude Include="multi.h" />
+    <ClInclude Include="urlapi.h" />
+    <ClInclude Include="Discord SDK\src\rpc_connection.h">
+      <Filter>SRC</Filter>
+    </ClInclude>
+    <ClInclude Include="Discord.h">
+      <Filter>Discord</Filter>
+    </ClInclude>
+    <ClInclude Include="Discord SDK\src\connection.h">
+      <Filter>SRC</Filter>
+    </ClInclude>
+    <ClInclude Include="Discord SDK\src\serialization.h">
+      <Filter>SRC</Filter>
+    </ClInclude>
+    <ClInclude Include="Discord SDK\src\msg_queue.h">
+      <Filter>SRC</Filter>
+    </ClInclude>
+    <ClInclude Include="termcolor.h" />
+    <ClInclude Include="Bicatcho.h" />
+    <ClInclude Include="imguipp.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dsound.def" />
+    <None Include="cpp.hint" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Dsound">
+      <UniqueIdentifier>{ce8ca313-e9a6-4321-81cd-ee860ad414f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IMGUI">
+      <UniqueIdentifier>{4cd017a0-745e-4d6f-abfb-48c8936bbe5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithm">
+      <UniqueIdentifier>{815558ac-67f5-4d46-be5a-7150509e1612}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Aimbot">
+      <UniqueIdentifier>{8613e4ab-348a-4c55-a9e8-7274d9d5a392}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data">
+      <UniqueIdentifier>{186a468a-a8eb-4912-8af2-d49b7674de7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Globel">
+      <UniqueIdentifier>{128ef5ef-c337-4505-a893-8fb02956ff27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{c894f393-6702-49c4-8318-237028bcbb6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Font">
+      <UniqueIdentifier>{7265de93-ab85-4721-a07c-6c7b60f2a099}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXWindow">
+      <UniqueIdentifier>{245ba414-ac91-4b30-9b5a-2457b23da409}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Memory">
+      <UniqueIdentifier>{66393860-b579-40b6-922f-273d166453f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DX11">
+      <UniqueIdentifier>{ffabde48-6e78-4807-baf8-d995c953bd99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ESP">
+      <UniqueIdentifier>{37811d50-1faf-4628-aff6-e2e8e75f2c38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{5cb4725c-93f7-49ed-ae4c-b20e41875296}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Setting">
+      <UniqueIdentifier>{60cf9e80-6581-4210-a9f7-7cab285c0f7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="api">
+      <UniqueIdentifier>{525bd7b8-429a-4a31-aacc-5dcb15950ef4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SRC">
+      <UniqueIdentifier>{621e9453-6a6a-4917-9302-3f96e5bf362d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Discord">
+      <UniqueIdentifier>{4931c85d-acc7-4081-98ec-9fb7d027d6d0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="dsound.rc" />
+  </ItemGroup>
+</Project>

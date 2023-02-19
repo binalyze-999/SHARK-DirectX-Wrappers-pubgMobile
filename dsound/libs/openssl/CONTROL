@@ -1,0 +1,6 @@
+Package: openssl-windows
+Version: 1.1.1d-1
+Architecture: x86-windows-static
+Multi-Arch: same
+Abi: 8a236219552950fc34a8f9e1d3ec846095edd6db
+Description: OpenSSL is an open source project that provides a robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols. It is also a general-purpose cryptography library.
